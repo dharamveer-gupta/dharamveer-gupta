@@ -1,4 +1,5 @@
 ## नमस्ते (Namaste)🙏, I am [@dharamveer-gupta](https://github.com/dharamveer-gupta)
+- 👨🏻‍💻 I'm full-time Senior Android App Developer
 - 👀 I’m interested in Mobile App Development
 - 🌱 I’m currently learning Native iOS Development, Jetpack Compose for Android
 - 💞️ I’m looking to collaborate on iOS and Android projects
