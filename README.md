@@ -15,8 +15,8 @@
 - 👔 Available for new opportunities.
 - 👨‍💻 I am a Dev with Passion for Mobile App Development.
 - 🫶🏻 Open source enthusiast. 
-- 🌱 I’m currently learning Jetpack Compose for Android, next is Flutter App Development.
-- ✨ I’m looking to collaborate on Android, Flutter and iOS projects.
+- 🌱 I’m currently learning Jetpack Compose.
+- ✨ I’m looking to collaborate on Android and iOS projects.
 - 📫 How to reach me **[dharamveer.gupt@gmail.com](dharamveer.gupt@gmail.com)**
 
 [![An image of @dharamveergupta's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dharamveergupta)](https://holopin.io/@dharamveergupta)
