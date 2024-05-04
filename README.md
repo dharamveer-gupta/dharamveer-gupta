@@ -7,9 +7,7 @@
 <br/>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F78109&center=true&vCenter=true&width=335&lines=Mobile+App+Developer;Open+Source+Enthusiast;Technology+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
-  
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dharamveer-gupta.dharamveer-gupta)
-  
+
 </div>
 
 - 👔 Available for new opportunities.
@@ -29,7 +27,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,firebase,vscode,flutter,dart,swift,git,github,postman,figma,xd,stackoverflow,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,kotlin,java,gradle,firebase,vscode,flutter,dart,swift,git,github,postman,figma,xd,stackoverflow,&perline=15)](https://skillicons.dev)
+
+<div align="center">
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=dharamveer-gupta.dharamveer-gupta)
+  
+</div>
 
 <!---
 dharamveer-gupta/dharamveer-gupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
